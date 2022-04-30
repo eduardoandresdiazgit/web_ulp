@@ -1,2 +1,17 @@
-h1 {background-color: yellow; width: 100%; font-size: 250%; font-size: 160px;}
+h1 {background-color: #5ccd25;
+   width: 100%;
+   font-size: 250%;
+   font-size: 110px;
+   text-align: center;
+ }
+ body {
+   background-color: #ffdd90;
+   background-image: url("./images/lichondra.jpg");
+ }
+
+
+
+
+
+
 h2{font-size: 100px;}
